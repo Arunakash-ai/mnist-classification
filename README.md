@@ -26,7 +26,7 @@ Compile and fit the model and then predict
 
 ## PROGRAM
 ```python3
-import numpy as np
+[import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras.datasets import mnist
@@ -94,7 +94,7 @@ np.argmax(model.predict(img_28_gray_scaled.reshape(1,28,28,1)),axis=1)
 ![image](https://user-images.githubusercontent.com/70213227/190917403-86929f91-d7bc-476d-ad5b-4b7d2d7fd1cd.png)
 ### New Sample Data Prediction
 
-![image](https://user-images.githubusercontent.com/70213227/190917418-b6d8d98e-06bd-4507-ad19-e05cca740f60.png)
+![image](https://user-images.githubusercontent.com/70213227/190917418-b6d8d98e-06bd-4507-ad19-e05cca740f60.png)](https://github.com/Arunakash-ai/mnist-classification/edit/main/README.md)
 
 ## RESULT
 Thus a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully
