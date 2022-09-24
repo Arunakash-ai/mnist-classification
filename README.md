@@ -37,8 +37,8 @@ Fit the model and predict the single input
 
 ## PROGRAM
 ```
-Developed by: R ARUNRAJ
-Registration no.: 212220230004
+Developed by: R ARUNKUMAR 
+Registration no.: 212220233001
 ```
 ```python
 import numpy as np
